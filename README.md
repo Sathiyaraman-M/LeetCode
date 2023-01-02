@@ -12,4 +12,5 @@ LeetCode solutions for 60 days from Dec,31,2022 to Feb,28,2023
 
 ## 2nd Jan, 2023
 - 29 - Divide Two Integers
+- 94 - Binary Tree Inorder Traversal
 - 520 - Detect Capital (Daily Challenge)
