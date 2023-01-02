@@ -11,4 +11,5 @@ LeetCode solutions for 60 days from Dec,31,2022 to Feb,28,2023
 - 290 - Word Pattern (Daily Challenge)
 
 ## 2nd Jan, 2023
-- 520 - Detect Capital
+- 29 - Divide Two Integers
+- 520 - Detect Capital (Daily Challenge)
