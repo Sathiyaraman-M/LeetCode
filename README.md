@@ -22,6 +22,7 @@ LeetCode solutions for 60 days from 31st Dec,2022 to 28th Feb,2023
 - 1281 - Subtract the Product and Sum of Digits of an Number
 
 ## 4th Jan, 2023
+- 26 - Remove Duplicates from Sorted Array
 - 27 - Remove Element
 - 66 - Plus One
 - 2244 - Minimum Rounds to Complete All Tasks (Daily Challenge)
