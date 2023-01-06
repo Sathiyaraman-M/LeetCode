@@ -26,3 +26,6 @@ LeetCode solutions for 60 days from 31st Dec,2022 to 28th Feb,2023
 - 27 - Remove Element
 - 66 - Plus One
 - 2244 - Minimum Rounds to Complete All Tasks (Daily Challenge)
+
+## 5th Jan, 2023
+- 452 - Minimum Number of Arrows to Burst Balloons
