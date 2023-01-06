@@ -28,4 +28,4 @@ LeetCode solutions for 60 days from 31st Dec,2022 to 28th Feb,2023
 - 2244 - Minimum Rounds to Complete All Tasks (Daily Challenge)
 
 ## 5th Jan, 2023
-- 452 - Minimum Number of Arrows to Burst Balloons
+- 452 - Minimum Number of Arrows to Burst Balloons (Daily Challenge)
