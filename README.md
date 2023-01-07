@@ -34,3 +34,6 @@ LeetCode solutions for 60 days from 31st Dec,2022 to 28th Feb,2023
 - 34 - Find First and Last Position of Element in Sorted Array
 - 1561 - Maximum Number of Coins You Can Get
 - 1833 - Maximum Ice Cream Bars (Daily Challenge)
+
+## 7th Jan, 2023
+- 134 - Gas Station (Daily Challenge)
