@@ -38,3 +38,6 @@ LeetCode solutions for 60 days from 31st Dec,2022 to 28th Feb,2023
 ## 7th Jan, 2023
 - 35 - Search Index Position
 - 134 - Gas Station (Daily Challenge)
+
+## 8th Jan, 2023
+- 149 - Max Points on a line (Daily Challenge)
