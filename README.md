@@ -45,4 +45,5 @@ LeetCode solutions for 60 days from 31st Dec,2022 to 28th Feb,2023
 ## 9th Jan, 2023
 - 144 - Binary Tree Pre-Order Traversal (Daily Challenge)
 - 145 - Binary Tree Post-Order Traversal
+- 589 - N-ary Tree Preorder Traversal
 - 590 - N-ary Tree Postorder Traversal
