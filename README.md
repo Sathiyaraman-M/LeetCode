@@ -52,3 +52,6 @@ LeetCode solutions for 60 days from 31st Dec,2022 to 28th Feb,2023
 - 20 - Valid Parentheses
 - 96 - Unique Binary Search Trees
 - 100 - Same Tree (Daily Challenge)
+
+## 11th Jan, 2023
+- 1443 - Minimum Time To Collect All Apples In A Tree (Daily Challenge)
