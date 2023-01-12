@@ -55,3 +55,6 @@ LeetCode solutions for 60 days from 31st Dec,2022 to 28th Feb,2023
 
 ## 11th Jan, 2023
 - 1443 - Minimum Time To Collect All Apples In A Tree (Daily Challenge)
+
+## 12th Jan, 2023
+- 1519 - Number of Nodes in the Sub-Tree With the Same Label (Daily Challenge)
