@@ -60,6 +60,7 @@ LeetCode solutions for 60 days from 31st Dec,2022 to 28th Feb,2023
 - 1519 - Number of Nodes in the Sub-Tree With the Same Label (Daily Challenge)
 
 ## 13th Jan, 2023
+- 58 - Length Of Last Word
 - 198 - House Robber
 - 213 - House Robber II
 - 2246 - Longest Path With Different Adjacent Characters (Daily Challenge)
