@@ -3,12 +3,8 @@ class Solution {
         var len = nums.length;
         if(len == 1) {
             return nums[0];
-        } else {
-            var range1 = rob(nums, 0, len - 2);
-            var range2 = rob(nums, 1, len - 1);
-            System.out.printf("%d %d", range1, range2);
-            return Math.max(range1, range2);
         }
+        return Math.max(rob(nums, 0, len - 2), rob(nums, 1, len - 1));
     }
 
     public int rob(int[] nums, int start, int end) {
