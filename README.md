@@ -77,4 +77,5 @@ LeetCode solutions for 60 days from 31st Dec,2022 to 28th Feb,2023
 
 ## 17th Jan, 2023
 - 5 - Longest Palindromic Substring
+- 22 - Generate Parentheses
 - 926 - Flip String to Monotone Increasing (Daily Challenge)
