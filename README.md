@@ -82,3 +82,6 @@ LeetCode solutions for 60 days from 31st Dec,2022 to 28th Feb,2023
 
 ## 18th Jan, 2023
 - 918 - Maximum Sum Circular Subarray (Daily Challenge)
+
+## 19th Jan, 2023
+- 974 - Subarray Sums Divisible by K (Daily Challenge)
