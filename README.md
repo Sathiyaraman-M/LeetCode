@@ -97,3 +97,9 @@ LeetCode solutions for 60 days from 31st Dec,2022 to 28th Feb,2023
 
 ## 23rd Jan, 2023
 - 997 - Find the Town Judge (Daily Challenge)
+
+## 24th Jan, 2023
+- 909 - Snakes and Ladders (Daily Challenge)
+
+## 25th Jan, 2023
+- 2359 - Find Closest Node to Given Two Nodes (Daily Challenge)
