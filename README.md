@@ -103,3 +103,6 @@ LeetCode solutions for 60 days from 31st Dec,2022 to 28th Feb,2023
 
 ## 25th Jan, 2023
 - 2359 - Find Closest Node to Given Two Nodes (Daily Challenge)
+
+## 26th Jan, 2023
+- 787 - Cheapest Flights Within K Stops (Daily Challenge)
