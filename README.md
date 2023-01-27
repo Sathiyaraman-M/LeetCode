@@ -106,3 +106,6 @@ LeetCode solutions for 60 days from 31st Dec,2022 to 28th Feb,2023
 
 ## 26th Jan, 2023
 - 787 - Cheapest Flights Within K Stops (Daily Challenge)
+
+## 27th Jan, 2023
+- 472 - Concatenated Words (Daily Challenge)
