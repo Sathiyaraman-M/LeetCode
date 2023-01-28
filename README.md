@@ -109,3 +109,6 @@ LeetCode solutions for 60 days from 31st Dec,2022 to 28th Feb,2023
 
 ## 27th Jan, 2023
 - 472 - Concatenated Words (Daily Challenge)
+
+## 28th Jan, 2023
+- 352 - Data Stream as Disjoint Intervals (Daily Challenge)
