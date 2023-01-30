@@ -112,3 +112,6 @@ LeetCode solutions for 60 days from 31st Dec,2022 to 28th Feb,2023
 
 ## 28th Jan, 2023
 - 352 - Data Stream as Disjoint Intervals (Daily Challenge)
+
+## 30th Jan, 2023
+- 1137 - N-th Tribonacci Number (Daily Challenge)
