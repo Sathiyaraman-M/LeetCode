@@ -116,3 +116,6 @@ LeetCode solutions for 60 days from 31st Dec,2022 to 28th Feb,2023
 ## 30th Jan, 2023
 - 509 - Fibonacci Number
 - 1137 - N-th Tribonacci Number (Daily Challenge)
+
+## 2nd Feb, 2023
+- 953 - Verifying an alien dictionary (Daily Challenge)
