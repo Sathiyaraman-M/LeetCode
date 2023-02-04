@@ -119,3 +119,6 @@ LeetCode solutions for 60 days from 31st Dec,2022 to 28th Feb,2023
 
 ## 2nd Feb, 2023
 - 953 - Verifying an alien dictionary (Daily Challenge)
+
+## 4th Feb, 2023
+- 567 - Permutation in String (Daily Challenge)
