@@ -122,3 +122,6 @@ LeetCode solutions for 60 days from 31st Dec,2022 to 28th Feb,2023
 
 ## 4th Feb, 2023
 - 567 - Permutation in String (Daily Challenge)
+
+## 5th Feb, 2023
+- 438 - Find All Anagrams in a String (Daily Challenge)
